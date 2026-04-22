@@ -1,4 +1,3 @@
-[index-7.html](https://github.com/user-attachments/files/26965109/index-7.html)
 # Jayjays
 <html lang="th">
 <head>
